@@ -4,7 +4,7 @@ This repository contains various sorting algorithms implemented in Python. Each 
 
 ## Algorithms Included
 
-1. [ ] **Bubble Sort:** `bubble_sort.py`
+1. [x] **Bubble Sort:** `bubble_sort.py`
    - Simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
 
 2. [x] **Selection Sort:** `selection_sort.py`
