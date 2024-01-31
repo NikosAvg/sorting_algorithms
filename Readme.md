@@ -7,7 +7,7 @@ This repository contains various sorting algorithms implemented in Python. Each 
 1. [x] **Bubble Sort:** `bubble_sort.py`
    - Simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
 
-2. [x] **Selection Sort:** `selection_sort.py`
+- [x] **Selection Sort:** `selection_sort.py`
    - In-place comparison-based sorting algorithm that divides the input list into a sorted and an unsorted region.
 
 3. [ ] **Insertion Sort:** `insertion_sort.py`
@@ -22,6 +22,7 @@ This repository contains various sorting algorithms implemented in Python. Each 
 ## Usage
 
 Each sorting algorithm is implemented in a standalone Python script. You can run them individually to see how they work. For example:
+
 
 ```bash
 python selection_sort.py
